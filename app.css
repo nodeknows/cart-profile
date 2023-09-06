@@ -13,10 +13,10 @@
   
   ---------------------------------------------------------------------- */
   :root {
-      --color-lightest: #ffcdcd;
-      --color-light: #ee6c6c;
-      --color: #EC6565;
-      --color-dark: #ca4e4e;
+      --color-lightest: #00d323;
+      --color-light: #706eff;
+      --color: #ff00b7;
+      --color-dark: #c20202;
       --font: "Open Sans", Helvetica, sans-serif;
   }
 
@@ -185,7 +185,7 @@
   .carousel .pre {
       position: absolute;
       top: 0;
-      right: 65%;
+      right: %;
       height: 45px;
       text-shadow: 1px 1px 2px var(--color);
   }
@@ -193,7 +193,7 @@
   .carousel .change_outer {
       position: absolute;
       top: 0;
-      left: 38%;
+      left: 52%;
       text-align: left;
       height: 45px;
       overflow: hidden;
