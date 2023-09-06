@@ -13,7 +13,7 @@
   
   ---------------------------------------------------------------------- */
   :root {
-      --color-lightest: #00d323;
+      --color-lightest: #bd00a4;
       --color-light: #706eff;
       --color: #ff00b7;
       --color-dark: #c20202;
@@ -185,7 +185,7 @@
   .carousel .pre {
       position: absolute;
       top: 0;
-      right: %;
+      right: 52%;
       height: 45px;
       text-shadow: 1px 1px 2px var(--color);
   }
@@ -339,7 +339,7 @@
   }
 
   .profile .actions {
-      margin-top: 33px;
+      margin-top: 15px;
   }
 
   .profile .actions .btn {
@@ -375,6 +375,7 @@
       width: 120px;
       height: 100px;
       background: var(--color-lightest);
+      color:#ffffff;
       text-align: center;
       padding-top: 28px;
       transition: all 0.4s ease-in-out;
